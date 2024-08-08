@@ -5,4 +5,4 @@
 
 
 Replanting Crops is a very simple plugin.<br>
-Interact with a crop in its final stage and it will drop the loot and replant if for you.
+Interact with a crop in its final stage and it will drop the loot and replant if for you!

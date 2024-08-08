@@ -1,0 +1,7 @@
+---
+name: ReplantingCrops
+version: 0.0.1
+main: DataLioness\ReplantingCrops\ReplantingCrops
+api: 5.17.0
+src-namespace-prefix: DataLioness\ReplantingCrops
+...

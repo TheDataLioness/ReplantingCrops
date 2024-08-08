@@ -1,0 +1,7 @@
+build-by-default: true
+branches:
+  - main
+projects:
+  ReplantingCrops:
+    path: ""
+    icon: icon.gif
